@@ -24,18 +24,18 @@ public class Trabajo4
                 System.out.print("Ingresa el segundo número entero: ");
                 num2 = scanner.nextInt();
 
-                int product = 0;
-                int iterations = 0;
+                int producto = 0;
+                int iteraciones = 0;
 
                 try {
-                    while (product <= 100) {
-                        product = num1 * num2;
-                        writer.println("Multiplicación: " + num1 + " * " + num2 + " = " + product);
+                    while (producto <= 100) {
+                        producto = num1 * num2;
+                        writer.println("Multiplicación: " + num1 + " * " + num2 + " = " + producto);
                         num1++;
-                        iterations++;
+                        iteraciones++;
                     }
 
-                    writer.println("Número de iteraciones: " + iterations);
+                    writer.println("Número de iteraciones: " + iteraciones);
                 } catch (Exception e) {
                     writer.println("Error: " + e.getMessage());
                 }
