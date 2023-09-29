@@ -1,0 +1,35 @@
+Multiplicación: 30 * 50 = 1500
+Número de iteraciones: 1
+Multiplicación: 30 * 30 = 900
+Número de iteraciones: 1
+Multiplicación: 2 * 5 = 10
+Multiplicación: 3 * 5 = 15
+Multiplicación: 4 * 5 = 20
+Multiplicación: 5 * 5 = 25
+Multiplicación: 6 * 5 = 30
+Multiplicación: 7 * 5 = 35
+Multiplicación: 8 * 5 = 40
+Multiplicación: 9 * 5 = 45
+Multiplicación: 10 * 5 = 50
+Multiplicación: 11 * 5 = 55
+Multiplicación: 12 * 5 = 60
+Multiplicación: 13 * 5 = 65
+Multiplicación: 14 * 5 = 70
+Multiplicación: 15 * 5 = 75
+Multiplicación: 16 * 5 = 80
+Multiplicación: 17 * 5 = 85
+Multiplicación: 18 * 5 = 90
+Multiplicación: 19 * 5 = 95
+Multiplicación: 20 * 5 = 100
+Multiplicación: 21 * 5 = 105
+Número de iteraciones: 20
+Multiplicación: 5 * 9 = 45
+Multiplicación: 6 * 9 = 54
+Multiplicación: 7 * 9 = 63
+Multiplicación: 8 * 9 = 72
+Multiplicación: 9 * 9 = 81
+Multiplicación: 10 * 9 = 90
+Multiplicación: 11 * 9 = 99
+Multiplicación: 12 * 9 = 108
+Número de iteraciones: 8
+Multiplicación: 100
