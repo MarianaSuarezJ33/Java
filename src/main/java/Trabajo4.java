@@ -10,8 +10,8 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.InputMismatchException;
 import java.util.Scanner;
-public class Trabajo4
-{
+
+public class Trabajo4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int num1 = 0;
